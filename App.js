@@ -19,7 +19,7 @@ const App=()=>{
 
     const [index, setIndex] = React.useState(0);
     const [routes] = React.useState([
-      {key: 'home', title: 'Home', icon: 'home-flood'},
+      {key: 'home', title: 'Home1', icon: 'home-flood'},
       {key: 'orders', title: 'Orders', icon: 'order-bool-ascending-variant'},
       {key: 'favorite', title: 'Favorite', icon: 'heart-multiple'},
       {key: 'cart', title: 'My Cart', icon: 'cart-arrow-right'}
